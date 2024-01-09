@@ -1,0 +1,6 @@
+user 只是实体
+dao实现实体
+service来调用dao层
+controller层来最后
+
+https://blog.csdn.net/fztsilly/article/details/113888863
